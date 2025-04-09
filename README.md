@@ -1,1 +1,2 @@
-# advanced-SQL project data analysis for bussiness development .
+# advanced-SQL
+data analysis of huge dataset for bussiness development .
